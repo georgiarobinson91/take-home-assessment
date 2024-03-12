@@ -9,7 +9,7 @@ export const Navbar = () => {
       <AiOutlineMenu color="white" size="30px" />
 
       <Link href="/">
-        <Image src="/me_logo.png" width={150} height={200} alt="med express" />
+        <Image src="/me_logo.png" width={150} height={150} alt="med express" />
       </Link>
 
       <HiMagnifyingGlass color="white" size="30px" />

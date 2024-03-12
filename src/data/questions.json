@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "Have you ever suffered from an eating disorder such as Anorexia Nervosa or Bulimia?",
+    "options": ["Yes", "No"]
+  },
+  {
+    "id": 2,
+    "text": "Are you pregnant or breast feeding or intending to become pregnant or start breast feeding whilst taking medication?",
+    "options": ["Yes", "No"]
+  },
+  {
+    "id": 3,
+    "text": "Are you allergic to orlistat?",
+    "options": ["Yes", "No"]
+  },
+  {
+    "id": 4,
+    "text": "Are you using oral contraceptive?",
+    "options": ["Yes", "No"]
+  },
+  {
+    "id": 5,
+    "text": "Are you taking any medicine for high cholesterol, diabetes or high blood pressure?",
+    "options": ["Yes", "No"]
+  }
+]
