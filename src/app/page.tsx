@@ -37,7 +37,7 @@ const Page: React.FC = () => {
       </header>
       <form>
         <div className="border-gray-200 border-2 m-2 rounded">
-          <p className="bg-gray-200 h-16 p-2">{currentQuestion.text}</p>
+          <p className="bg-gray-200 p-2">{currentQuestion.text}</p>
           {currentQuestion.options.map((option: string) => (
             <button
               key={option}
