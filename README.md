@@ -25,3 +25,4 @@ Health Consultation is a web application designed to provide users with a platfo
 - **TypeScript**: A superset of JavaScript that adds static types to the language, enhancing code quality and developer experience.
 - **React Icons**: A library that provides a wide range of icons to be used in React applications.
 - **React**: A JavaScript library for building user interfaces, particularly single-page applications.
+# heliosx-take-home-assessment
